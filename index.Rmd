@@ -1,0 +1,42 @@
+
+---
+title: "II Atlas Herpetológico de la Comunidad Valenciana"
+output:
+  html_document:
+    include:
+      after_body: "footer.html"
+---
+
+El II Atlas Herpetológico de la Comunidad Valenciana, impulsado desde la Asociación Herpetológica Timon, tiene como objetivo ofrecer una información actualizada y fiable sobre la distribución de las diferentes especies de anfibios y reptiles presentes en el territorio de la Comunidad.
+
+Han pasado dos décadas desde el primer atlas (Sancho y Lacomba, 1999), y en este tiempo se han producido numerosos cambios en el territorio valenciano y es de esperar que la distribución de las especies sea diferente. Es necesario confirmar la persistencia de numerosas poblaciones, especialmente de especies escasas en este territorio, y vulnerables por tanto a las alteraciones en el medio.
+
+Se espera que este trabajo ofrezca información de primera mano sobre el estado de conservación de los herpetos valencianos, actualizando la distribución de las especies más amenazadas y siendo por tanto una guía a la hora de proponer herramientas de conservación.
+
+El territorio de la comunidad es extenso, y por ello se espera una duración de 5 a 10 años para dar por cubierto el territorio en la cobertura deseada (cuadrículas UTM de 5x5 y 10x10 km). 
+
+
+
+
+* [Acceso al visor de abundancias, cuadrículas bien muestreadas y asignadas](https://mcohyla.github.io/herpetoscv/abundancias.html){target="_blank"}.
+
+
+* [Acceso al visor de distribución de especies](https://mcohyla.github.io/herpetoscv/atlas.html){target="_blank"}.
+
+
+* Descarga de los kml de aguas estancadas por provincia:
+    + [KML de las aguas estancadas de Alicante](https://drive.google.com/uc?id=1F6m1q96vZwDL6qGLXYkSJMfPurBQCczF&export=download&authuser=0){target="_blank"}.
+    + [KML de las aguas estancadas de Castellón](https://drive.google.com/uc?id=1jvQ-8S6t1ssOyv66bZYBH0bqlW-b-Kr3&export=download&authuser=0){target="_blank"}.
+    + [KML de las aguas estancadas de Valencia](https://drive.google.com/uc?id=1vheBAJ5Y2g0dsk6q3WsX6oiJrqe3HU8d&export=download&authuser=0){target="_blank"}.
+
+
+
+<br>
+
+### Contacto y redes sociales:
+
+* Correo electrónico: atlas.herpeto.cv@gmail.com
+
+* Página web Asociación Timon: [www.asociaciontimon.org](https://www.asociaciontimon.org/){target="_blank"}
+
+* Facebook Asociación Timon: [FaceBook](https://www.facebook.com/Asociación-Herpetológica-Timon-266873837290249/){target="_blank"}
